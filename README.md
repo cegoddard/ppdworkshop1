@@ -1,8 +1,6 @@
 # ppdworkshop1
 Intro to GIS and mapping gentrification workshop, LA
 
-METHODS
-
 Question to answer:
 -	Which zip code in Los Angeles has experienced the most "Gentrification" since 2000?
 
